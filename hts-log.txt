@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Jun 2020 01:33:51 at https://colorlib.com/preview/theme/karma/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://colorlib.com/preview/theme/karma/index.html -O1 "C:\My Web Sites\ClientWork\Braun Fit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/css/owl.video.play.png (from https://colorlib.com/preview/theme/karma/css/owl.carousel.css)
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/img/sprite-skin-flat.png (from https://colorlib.com/preview/theme/karma/css/ion.rangeSlider.skinFlat.css)
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/img/logo/title-line.png (from https://colorlib.com/preview/theme/karma/css/main.css)
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/img/logo/discount-shape.svg (from https://colorlib.com/preview/theme/karma/css/main.css)
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/blog-details.html (from https://colorlib.com/preview/theme/karma/blog.html)
+01:34:58	Error: 	"Not Found" (404) at link https://colorlib.com/preview/theme/karma/registration.html (from https://colorlib.com/preview/theme/karma/login.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 7 seconds : 168 links scanned, 161 files written (7028488 bytes overall) [5731676 bytes received at 85547 bytes/sec], 2316367 bytes transferred using HTTP compression in 53 files, ratio 35%, 33.6 requests per connection
+(6 errors, 0 warnings, 0 messages)
