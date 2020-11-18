@@ -54,7 +54,7 @@
                      <div class="home-fitness-col">[m
                        <h3 class="pl-3" style="color: #FFBA00;">CARDIO</h3>[m
                        <div class="dropdown-divider"></div>[m
-                       <a href="cftreadmill.html" class="pl-5">Treadmil</a>[m
+                       <a href="cftreadmill.html" class="pl-5">Treadmill</a>[m
                        <a href="ctcrosstrainers.html" class="pl-5">Cross Trainers</a>[m
 [31m- <a href="ctbike.html" class="pl-5">Bike</a>[m
 [32m+[m[32m                      <a href="ctbike.html" class="pl-5">Bike</a>[m
@@ -306,7 +306,7 @@
                      <div class="home-fitness-col">[m
                        <h3 class="pl-3" style="color: #FFBA00;">CARDIO</h3>[m
                        <div class="dropdown-divider"></div>[m
-                       <a href="cftreadmill.html" class="pl-5">Treadmil</a>[m
+                       <a href="cftreadmill.html" class="pl-5">Treadmill</a>[m
                        <a href="ctcrosstrainers.html" class="pl-5">Cross Trainers</a>[m
 [31m- <a href="ctbike.html" class="pl-5">Bike</a>[m
 [32m+[m[32m                      <a href="ctbike.html" class="pl-5">Bike</a>[m
