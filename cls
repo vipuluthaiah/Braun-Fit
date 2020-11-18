@@ -328,7 +328,7 @@
        <div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">[m
          <div class="col-first">[m
 [31m-          <h1>TREADMIL  </h1>[m
-[32m+[m[32m          <h1>TREADMIL </h1>[m
+[32m+[m[32m          <h1>TREADMILL </h1>[m
            <nav class="d-flex align-items-center">[m
              <a href="index.html">Home<span class="lnr lnr-arrow-right"></span></a>[m
 [31m-            <a href="#">Home Fitness<span "></span></a>[m

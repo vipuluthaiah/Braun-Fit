@@ -1423,7 +1423,10 @@ h6 {
   }
 }
 .banner-area {
-  background: url(../img/banner/banner-bg.jpg) center no-repeat;
+  /* background: url(../img/banner/banner-bg.jpg) center no-repeat;
+   */
+  background: url(../img/bcg.jpeg) center no-repeat;
+
   background-size: cover;
   position: relative;
 }
