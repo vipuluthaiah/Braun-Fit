@@ -1423,9 +1423,9 @@ h6 {
   }
 }
 .banner-area {
-  background: url(../img/banner/banner-bg.jpg) center no-repeat;
-  
-  /* background: url(../img/banner/111.jpeg) center no-repeat; */
+  /* background: url(../img/banner/banner-bg.jpg) center no-repeat;
+   */
+   background: url(../img/banner/22.jpg) center no-repeat;
 
   background-size: cover;
   position: relative;
