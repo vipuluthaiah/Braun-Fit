@@ -65,7 +65,7 @@
                        <div class="dropdown-divider"></div>[m
 [31m-                    [m
 [32m+[m
-                       <a href="ctdualstation.html" class="pl-5">Dual Station</a>[m
+                       <a href="ctdualstation.html" class="pl-5">Strength</a>[m
 [31m-                  [m
 [32m+[m
                        <a href="ctbenches.html" class="pl-5">Benches</a>[m
@@ -317,7 +317,7 @@
                        <div class="dropdown-divider"></div>[m
 [31m-                    [m
 [32m+[m
-                       <a href="ctdualstation.html" class="pl-5">Dual Station</a>[m
+                       <a href="ctdualstation.html" class="pl-5">Strength</a>[m
 [31m-                  [m
 [32m+[m
                        <a href="ctbenches.html" class="pl-5">Benches</a>[m
